@@ -8,4 +8,5 @@ We are doing this by creating a DAO to decentralise and scale approval of projec
 Please visit 
 
   Discord: https://discord.com/channels/887293240737415238/898190194929459273
+  
   Telegram: https://t.me/moonjellydao
